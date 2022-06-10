@@ -1,0 +1,1252 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/afg.svg"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/alb.svg"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/dza.svg"
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/asm.svg"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/and.svg"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ago.svg"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/aia.svg"
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ata.svg"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/atg.svg"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/arg.svg"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/arm.svg"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/abw.svg"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/aus.svg"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/aut.svg"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/aze.svg"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bhs.svg"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bhr.svg"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bgd.svg"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/brb.svg"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/blr.svg"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bel.svg"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/blz.svg"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ben.svg"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bmu.svg"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/btn.svg"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bol.svg"
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bes.svg"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bih.svg"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bwa.svg"
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bvt.svg"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bra.svg"
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/iot.svg"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/brn.svg"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bgr.svg"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bfa.svg"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/bdi.svg"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cpv.svg"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/khm.svg"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cmr.svg"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/can.svg"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cym.svg"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/caf.svg"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tcd.svg"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/chl.svg"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/chn.svg"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cxr.svg"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cck.svg"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/col.svg"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/com.svg"
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cog.svg"
+  },
+  {
+    "code": "CD",
+    "name": "Congo (Democratic Republic of the)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cod.svg"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cok.svg"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cri.svg"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hrv.svg"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cub.svg"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cuw.svg"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cyp.svg"
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/cze.svg"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/civ.svg"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/dnk.svg"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/dji.svg"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/dma.svg"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/dom.svg"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ecu.svg"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/egy.svg"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/slv.svg"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gnq.svg"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/eri.svg"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/est.svg"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/swz.svg"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/eth.svg"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/flk.svg"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/fro.svg"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/fji.svg"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/fin.svg"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/fra.svg"
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/guf.svg"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pyf.svg"
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/atf.svg"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gab.svg"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gmb.svg"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/geo.svg"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/deu.svg"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gha.svg"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gib.svg"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/grc.svg"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/grl.svg"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/grd.svg"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/glp.svg"
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gum.svg"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gtm.svg"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ggy.svg"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gin.svg"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gnb.svg"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/guy.svg"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hti.svg"
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hmd.svg"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hnd.svg"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hkg.svg"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/hun.svg"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/isl.svg"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ind.svg"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/idn.svg"
+  },
+  {
+    "code": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/irn.svg"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/irq.svg"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/irl.svg"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/imn.svg"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/isr.svg"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ita.svg"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/jam.svg"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/jpn.svg"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/jey.svg"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/jor.svg"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kaz.svg"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ken.svg"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kir.svg"
+  },
+  {
+    "code": "KP",
+    "name": "Korea (Democratic People's Republic of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/prk.svg"
+  },
+  {
+    "code": "KR",
+    "name": "Korea (Republic of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kor.svg"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kwt.svg"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kgz.svg"
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lao.svg"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lva.svg"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lbn.svg"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lso.svg"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lbr.svg"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lby.svg"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lie.svg"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ltu.svg"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lux.svg"
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mac.svg"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mdg.svg"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mwi.svg"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mys.svg"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mdv.svg"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mli.svg"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mlt.svg"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mhl.svg"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mtq.svg"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mrt.svg"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mus.svg"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/myt.svg"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mex.svg"
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia (Federated States of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/fsm.svg"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova (Republic of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mda.svg"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mco.svg"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mng.svg"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mne.svg"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/msr.svg"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mar.svg"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/moz.svg"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mmr.svg"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nam.svg"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nru.svg"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/npl.svg"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nld.svg"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ncl.svg"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nzl.svg"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nic.svg"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ner.svg"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nga.svg"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/niu.svg"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nfk.svg"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mkd.svg"
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/mnp.svg"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/nor.svg"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/omn.svg"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pak.svg"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/plw.svg"
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pse.svg"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pan.svg"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/png.svg"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pry.svg"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/per.svg"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/phl.svg"
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pcn.svg"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pol.svg"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/prt.svg"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/pri.svg"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/qat.svg"
+  },
+  {
+    "code": "XK",
+    "name": "Republic of Kosovo",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kos.svg"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/rou.svg"
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/rus.svg"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/rwa.svg"
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/reu.svg"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/blm.svg"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/shn.svg"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/kna.svg"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lca.svg"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin (French part)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/maf.svg"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/spm.svg"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vct.svg"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/wsm.svg"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/smr.svg"
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/stp.svg"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sau.svg"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sen.svg"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/srb.svg"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/syc.svg"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sle.svg"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sgp.svg"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sxm.svg"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/svk.svg"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/svn.svg"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/slb.svg"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/som.svg"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/zaf.svg"
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sgs.svg"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ssd.svg"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/esp.svg"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/lka.svg"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sdn.svg"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sur.svg"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/sjm.svg"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/swe.svg"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/che.svg"
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/syr.svg"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/twn.svg"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tjk.svg"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tza.svg"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tha.svg"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tls.svg"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tgo.svg"
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tkl.svg"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ton.svg"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tto.svg"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tun.svg"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tur.svg"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tkm.svg"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tca.svg"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/tuv.svg"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/uga.svg"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ukr.svg"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/are.svg"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/gbr.svg"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/usa.svg"
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/umi.svg"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ury.svg"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/uzb.svg"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vut.svg"
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vat.svg"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ven.svg"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vnm.svg"
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vgb.svg"
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/vir.svg"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/wlf.svg"
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/esh.svg"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/yem.svg"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/zmb.svg"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/zwe.svg"
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "flag": "https://raw.githubusercontent.com/Techcurl/rest-countries/master/data/ala.svg"
+  }
+]
